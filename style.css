@@ -80,8 +80,4 @@ form button {
 .agreementText b {
   color: hsl(0, 100%, 74%);
 }
-@media (min-width: 665px) {
-  body {
-    background-image: url(/images/bg-intro-desktop.png);
-  }
-}
+
